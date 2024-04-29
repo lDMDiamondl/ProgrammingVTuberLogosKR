@@ -1,6 +1,5 @@
 # Programming VTuber Logos KR
 [@AIKoyori](https://github.com/Aikoyori)의 로고에 있는 일본어를 한국어로 변경한 로고를 업로드합니다. <br>
-본격적인 업로드는 4월 25일 이후에 시작될 예정입니다 <br>
 주의 사항에 관해서는 [원본 리포지토리](https://github.com/Aikoyori/ProgrammingVTuberLogos/tree/main)를 참고하시길 바랍니다. <br>
 일부 QnA에 관해선 번역을 달아두겠습니다.
 
